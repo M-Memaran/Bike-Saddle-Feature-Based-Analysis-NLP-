@@ -12,11 +12,9 @@ like many other processes.
 
 Follow this step: 
 
-1- Do the code in the "Bike Saddle Reviews Scraping" folder to achieve the "data" file (customer reviews).  
+1- ...  
 
-2- Since the all data in "data" file is not needed, clean the 'data' file manually in excel to reach 
-the file like "Brooks England B17 - Second Version with Rates" or "Brooks England B17 - Second Version". 
-The first is better, and it would be used when the rate of the reviews is coming to use. 
+2- ... 
 
 3- Implement the "Feature Extraction" file. "Brooks England B17 - Frequent Words" file is the outcome of 
 the implementation. But it should be checked and monitored manually (mapping) to be able to drive features. 
